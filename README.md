@@ -40,7 +40,7 @@ Within this dataset, our main current limitations are the dataset, and its data 
 
 The largest challenge for future implementations and improvements for this code would be to work with other columns within this dataset and implement them accordingly. For reference, I was able to find a great source online on how a user was able to create a recommender system using this dataset, which is an extreme project that includes all the fields within the set. However, for this project and its scope, this would be a project currently outside the process of limitations. For future use, I would love to incorporate these types of goals into my own recommender system.
 
-##Future Uses/Additional Applications
+## Future Uses/Additional Applications
 
  A large goal for this project would be to also include television shows, as their reach and content can be considered like a movie format. It would also be a goal to integrate user data and store this into a file for future use and additional input, which would help the longevity and eventual outcome of this model and program, as well as a GUI for easier use.
 
