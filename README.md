@@ -12,7 +12,7 @@ The dataset for this project is sourced from the TMDB 5000 Movie Dataset on Kagg
 
 The TMDB dataset comprises key information about the movies within the dataset. This includes the movie title, the genres for each film, keywords associated with the movie, revenue, runtime, and voter average rating. For data cleaning, it is necessary to fill values for those we are currently working with – in this case, our genre’s value. This also needs to be split, as they are currently utilizing multiple genres within one field.
 
-##Methods
+## Methods
 
 The recommender system employs two main techniques: Content-Based Filtering & Item-Item Similarity.
 •	Content-Based Filtering focuses on metadata (e.g., genres, keywords) to recommend movies with similar features. The techniques for this include TF-IDF vectorization and cosine similarity.
